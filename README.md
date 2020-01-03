@@ -34,8 +34,8 @@ pkg install git
 pkg install python
 git clone https://github.com/sanikava/boom.git
 cd boom
-chmod +x sanikava.sh
-./sanikava.sh
+chmod +x boom.sh
+./boom.sh
 ```
 
 ### For Linux
@@ -43,9 +43,9 @@ To use the bomber type the following commands in Linux terminal:
 ```
 sudo apt install git
 git clone https://github.com/sanikava/boom.git
-cd TBomb
+cd boom
 chmod +x boom.sh
-sudo bash sanikava.sh
+sudo bash boom.sh
 ```
 
 Notice: git installation methods are not universal and do differ between distributions, so
