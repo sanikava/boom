@@ -1,4 +1,4 @@
-# sanikava v1.6b
+# boom v1
 An open-source SMS/call bomber for Linux And Termux.
 
 This script is only for educational purposes or to prank.
@@ -66,33 +66,14 @@ Commands below provide instructions for Debian-based systems.
 
  [+] Automatic updating
 
- [+] Easy to use and embed in code
+ [+] Easy to use and embed in code<br><br>
  
  
 
-# CONTRIBUTORS
-<br><br>
-=>  SpeedX<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[-] Mail At: ggspeedx29@gmail.com  <br>
-=>  DarkestEntropy
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[-] Check At: https://github.com/darkestentropy  <br>
-=>  The Black Hacker Roxstar<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[-] Ping At: NULL <br>
-=>  Rieltar<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[-] Ping At: https://t.me/Rieltar  <br>
-=>  0n1cOn3 (Stefan)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[-] Mail At: 0n1cOn3@gmx.ch <br>
-
-## Donators
-<br><br>
-[@] 34D30Y ( 34db0y@protonmail.com  )
-<br>
-[@] SC AMAN
-<br><br>
 # CONTACT
 Feel Free To Open An Issue...
 
-           Mail: ggspeedx29@gmail.com
+           Mail: zakstorm1352@gmail.com
 
-           YouTube Channel: https://www.youtube.com/c/GyanaTech
-  <a href="https://www.youtube.com/c/GyanaTech">Check My Channel</a>
+           YouTube Channel: https://www.youtube.com/channel/UCaMfmgHzxs_GVo8bPeQCaOQ
+  <a href="https://www.youtube.com/channel/UCaMfmgHzxs_GVo8bPeQCaOQ">Check My Channel</a>
