@@ -24,12 +24,12 @@ do
 rm *.xxx >/dev/null 2>&1
 clear
 echo -e "\e[1;31m"
-figlet TBomb
+figlet boom
 echo -e "\e[1;34m Created By \e[1;32m"
 toilet -f mono12 -F border BHAWANI
 echo -e "\e[4;34m This Bomber Was Created By BHAWANI\e[0m"
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
-echo -e "\e[1;32m           Mail: hackerzero@secmail.pro \e[0m"
+echo -e "\e[1;32m           Mail: zakstorm1352@gmail.com \e[0m"
 echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/channel/UCaMfmgHzxs_GVo8bPeQCaOQ \e[0m"
 echo " "
 echo -e "\e[4;31m Please Read Instruction Carefully !!! \e[0m"
@@ -58,21 +58,21 @@ elif [ $ch -eq 3 ];then
 clear
 apt install git -y
 echo -e "\e[1;34m Downloading Latest Files..."
-git clone https://github.com/TheSpeedX/TBomb
-if [[ -s TBomb/TBomb.sh ]];then
-cd TBomb
+git clone https://github.com/sanikava/boom.com
+if [[ -s boom/boom.sh ]];then
+cd boom
 cp -r -f * .. > temp
 cd ..
-rm -rf  TBomb >> temp
+rm -rf  boom >> temp
 rm update.speedx >> temp
 rm temp
-chmod +x TBomb.sh
+chmod +x boom.sh
 fi
-echo -e "\e[1;32m TBomb Will Restart Now..."
+echo -e "\e[1;32m boom Will Restart Now..."
 echo -e "\e[1;32m All The Required Packages Will Be Installed..."
 echo -e "\e[1;34m Press Enter To Proceed To Restart..."
 read a6
-./TBomb.sh
+./boom.sh
 exit
 elif [ $ch -eq 4 ];then
 clear
@@ -90,7 +90,7 @@ echo "  [+] Automated Future Updates"
 echo "  [+] Easy To Use And Embed in Code"
 echo -e "\e[1;32m                   Contributors\e[1;33m"
 echo -e "\e[1;33m      [*]  BHAWANI   \e[1;31m"
-echo "         [-] Mail At: hackerzero@secmail.pro.com"
+echo "         [-] Mail At: zakstorm1352@gmail.com.com"
 echo -e "\e[1;33m      [*]  hack   \e[1;31m"
 echo "         [-] Ping At: http://wa.me/917600140353"
 echo -e "\e[1;33m      [*]  Rieltar   \e[1;31m"
@@ -106,7 +106,7 @@ echo -e "\e[1;32m Make Sure To Update it If It Does not Work.\e[0m"
 echo  " "
 echo -e "\e[4;31m That's All !!!\e[0m"
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
-echo -e "\e[1;32m           Mail: hackerzero@secmail.pro \e[0m"
+echo -e "\e[1;32m           Mail: zakstorm1352@gmail.com \e[0m"
 echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/channel/UCaMfmgHzxs_GVo8bPeQCaOQ \e[0m"
 echo "Press Enter To Go Home"
 read a3
@@ -118,7 +118,7 @@ figlet SANIKAVA
 echo -e "\e[1;34m Created By \e[1;32m"
 toilet -f mono12 -F border BHAWANI
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
-echo -e "\e[1;32m           Mail: hackerzero@secmail.pro \e[0m"
+echo -e "\e[1;32m           Mail: zakstorm1352@gmail.com \e[0m"
 echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/channel/UCaMfmgHzxs_GVo8bPeQCaOQ \e[0m"
 echo " "
 exit 0
