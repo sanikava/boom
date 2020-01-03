@@ -1,9 +1,9 @@
-# TBomb v1.6b
+# sanikava v1.6b
 An open-source SMS/call bomber for Linux And Termux.
 
 This script is only for educational purposes or to prank.
 Do not use this to harm others.
-None of the developers/contributors are responsible for the misuse of TBomb.
+None of the developers/contributors are responsible for the misuse of sanikava.
 
 **You've been warned.**
 
@@ -26,26 +26,26 @@ $ env python -V
 If output looks like `Python 3` - congrats, Python 3 is installed properly.
 
 ## Usage
-Run These Commands To Run TBomb
+Run These Commands To Run boom
 ### For Termux
 To use the bomber type the following commands in Termux:
 ```
 pkg install git
 pkg install python
-git clone https://github.com/TheSpeedX/TBomb.git
-cd TBomb
-chmod +x TBomb.sh
-./TBomb.sh
+git clone https://github.com/sanikava/boom.git
+cd boom
+chmod +x sanikava.sh
+./sanikava.sh
 ```
 
 ### For Linux
 To use the bomber type the following commands in Linux terminal:
 ```
 sudo apt install git
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/sanikava/boom.git
 cd TBomb
-chmod +x TBomb.sh
-sudo bash TBomb.sh
+chmod +x boom.sh
+sudo bash sanikava.sh
 ```
 
 Notice: git installation methods are not universal and do differ between distributions, so
@@ -68,10 +68,7 @@ Commands below provide instructions for Debian-based systems.
 
  [+] Easy to use and embed in code
  
-## DEMO
-<br>
-Watch Indian Bombing Method <a href="https://youtu.be/9KWkwsr_QGw">here</a> <br><br>
-Watch International Bombing Method <a href="https://youtu.be/JqsHkyIcnPM">here</a> <br><br>
+ 
 
 # CONTRIBUTORS
 <br><br>
