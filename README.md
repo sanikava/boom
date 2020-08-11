@@ -1,3 +1,8 @@
+#outdated not working now
+
+
+
+
 # boom v1
 An open-source SMS/call bomber for Linux And Termux.
 
