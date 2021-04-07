@@ -78,7 +78,7 @@ Commands below provide instructions for Debian-based systems.
 # CONTACT
 Feel Free To Open An Issue...
 
-           Mail: zakstorm1352@gmail.com
+           Mail: sanikava.india@gmail.com
 
            YouTube Channel: https://www.youtube.com/channel/UCaMfmgHzxs_GVo8bPeQCaOQ
   <a href="https://www.youtube.com/channel/UCaMfmgHzxs_GVo8bPeQCaOQ">Check My Channel</a>
